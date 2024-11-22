@@ -1,0 +1,24 @@
+.table,
+td{
+    padding: 6px 12px;
+    text-align: center;
+}
+.table,
+th{
+    padding: 6px 12px;
+    text-align: left;
+    border: 1px solid #dfdfe2;
+    color: black;
+    font-size: 1rem;
+    font-weight: 700;
+    letter-spacing: 0,2px;
+    background-color: #dfdfe2;
+    text-transform: capitalize;
+}
+.table,
+tfoot{
+    background-color: #dfdfe2;
+    color: black;
+    font-size: 1rem;
+    font-weight: 700;
+}
